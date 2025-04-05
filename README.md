@@ -1,5 +1,5 @@
 # The Insight 🔦
-
+ 
 ![Smmry Application](https://github.com/Satharva2004/the-Insight/assets/84018291/f9c1eddc-6dee-45af-a357-b93ba6e7f390)
 
 Welcome to The Insight, your go-to tool for quick content summarization. Gain valuable insights from web pages with ease!
